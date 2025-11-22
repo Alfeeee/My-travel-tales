@@ -1,0 +1,7 @@
+{
+  "name": "MyTravelTales",
+  "description": "A personal digital journal for travelers to document trips, upload photos, write stories, and organize memories in a visually rich, personal space. Relive your journeys, one memory at a time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
